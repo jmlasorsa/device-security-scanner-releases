@@ -15,4 +15,6 @@ Windows: double-click the Setup file. If Windows says "Windows protected your PC
 
 The app asks for a password when it opens. Ask the person who sent you this page for it.
 
+After the first install the app updates itself: it checks this page when it opens, tells you when a new version is ready, and installs it with one press. These links never change.
+
 This page holds only the installers and the guide.
