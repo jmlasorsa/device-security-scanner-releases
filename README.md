@@ -17,4 +17,12 @@ The app asks for a password when it opens. Ask the person who sent you this page
 
 After the first install the app updates itself: it checks this page when it opens, tells you when a new version is ready, and installs it with one press. These links never change.
 
-This page holds only the installers and the guide.
+## Phone Scan Helper (for clients of a remote iPhone or Android scan)
+
+Your examiner sends you a job file and these steps. The helper runs on your own Mac or Windows PC without installing anything, and deletes its temporary files when you close it.
+
+- Mac with Apple silicon: https://github.com/jmlasorsa/device-security-scanner-releases/releases/latest/download/Device-Security-Scanner-Phone-Helper-Mac-Apple-silicon.zip
+- Mac with an Intel processor: https://github.com/jmlasorsa/device-security-scanner-releases/releases/latest/download/Device-Security-Scanner-Phone-Helper-Mac-Intel.zip
+- Windows PC: https://github.com/jmlasorsa/device-security-scanner-releases/releases/latest/download/Device-Security-Scanner-Phone-Helper-Windows.zip
+
+This page holds only the installers, the Phone Scan Helper and the guide.
